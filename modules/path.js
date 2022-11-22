@@ -12,5 +12,5 @@ const base = path.basename(filepath);
 console.log('base: ', base);
 
 // outputs the obsolute path
-const absolutePath = path.resolve(__dirname, 'modules', 'README.md')
+const absolutePath = path.resolve(__dirname, 'modules', 'README.md');
 console.log(absolutePath);

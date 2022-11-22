@@ -2,12 +2,10 @@
 
 ### Table of Contents
 
-| No. | Questions |
-| --- | --------- |
-|   | **Core NodeJs** |
-|1  | [What is NodeJs?](#what-is-node) |
-
-
+| No. | Questions                        |
+| --- | -------------------------------- |
+|     | **Core NodeJs**                  |
+| 1   | [What is NodeJs?](#what-is-node) |
 
 ### 1. What is NodeJs?
 
@@ -21,8 +19,7 @@
 
 - This allows Node.js to handle thousands of concurrent connections with a single server without introducing the burden of managing thread concurrency, which could be a significant source of bugs.
 
-
-   **[⬆ Back to Top](#table-of-contents)**
+  **[⬆ Back to Top](#table-of-contents)**
 
 ## Disclaimer
 
